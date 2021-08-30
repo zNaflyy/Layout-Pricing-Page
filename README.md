@@ -1,4 +1,4 @@
-# 💸 Layout Pagina De Preços
+# ⚙️ Layout Pagina De Preços
 
 **Em Meados de 2017, Tinha feito uma interface de uma Pagina de Preços. Porém não tinha gostado do resutado e nesse ano decide retomar com esse projeto, Com o projeto finalizado, Decide postar aqui. Obrigado :)**
 
